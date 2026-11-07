@@ -5,8 +5,8 @@ A practical Kubernetes/Istio learning repository covering Envoy sidecars, admiss
 ## Start here
 
 - Read the [complete guide](docs/istio-service-mesh-guide.md).
-- View the [LinkedIn carousel PDF](linkedin-istio-carousel.pdf).
-- Open the [PowerPoint source deck](linkedin-istio-carousel.pptx).
+- View the [Carousel PDF](Istio-carousel.pdf).
+- Open the [PowerPoint source deck](Istio-carousel.pptx).
 - Explore the animated GIFs in `assets/gifs/`.
 
 ## Contents
@@ -16,8 +16,8 @@ A practical Kubernetes/Istio learning repository covering Envoy sidecars, admiss
 ├── README.md
 ├── docs/
 │   └── istio-service-mesh-guide.md
-├── linkedin-istio-carousel.pdf
-├── linkedin-istio-carousel.pptx
+├── Istio-carousel.pdf
+├── Istio-carousel.pptx
 └── assets/
     ├── gifs/
     └── slides/
